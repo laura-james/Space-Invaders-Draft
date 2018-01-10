@@ -1,0 +1,9 @@
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\bin\Debug\Space Invaders 2017.exe
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\bin\Debug\Space Invaders 2017.pdb
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\bin\Debug\Space Invaders 2017.xml
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\obj\x86\Debug\Space_Invaders_2017.Resources.resources
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\obj\x86\Debug\Space Invaders 2017.vbproj.GenerateResource.Cache
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\obj\x86\Debug\Space Invaders 2017.exe
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\obj\x86\Debug\Space Invaders 2017.xml
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\obj\x86\Debug\Space Invaders 2017.pdb
+h:\Visual Basic\Space Invaders 2017\Space Invaders 2017\obj\x86\Debug\Space_Invaders_2017.Form1.resources
